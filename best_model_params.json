@@ -1,0 +1,1 @@
+{"dropout_rate": 0.4, "learning_rate": 0.003, "num_hidden_layers": 2, "batch_size": 64, "auc_train": 0.8937340284499307, "auc_test": 0.8782911053517101}
